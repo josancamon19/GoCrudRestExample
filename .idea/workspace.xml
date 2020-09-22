@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fab05d6-35cf-4be2-b584-12c506359ded" name="Default Changelist" comment="" />
+    <list default="true" id="9fab05d6-35cf-4be2-b584-12c506359ded" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/db/database.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +38,11 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hotbXIHaALywPE3fkUka5F30Mb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,22 +75,45 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1600716314872">
+    <state x="-1125" y="318" key="Github.ShareDialog" timestamp="1600716663060">
       <screen x="-1920" y="-126" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1600716314872" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1600716314871">
+    <state x="-1125" y="318" key="Github.ShareDialog/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1600716663060" />
+    <state x="-1222" y="126" key="Github.UntrackedFilesDialog" timestamp="1600716668231">
       <screen x="-1920" y="-126" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1600716314871" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1600716314870">
+    <state x="-1222" y="126" key="Github.UntrackedFilesDialog/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1600716668231" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1600802892614">
       <screen x="-1920" y="-126" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1600716314870" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1600716314872">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1600802892614" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.23.1280.777/-1920.-103.1920.1002@-1920.-103.1920.1002" timestamp="1600802778707" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1600802892612">
       <screen x="-1920" y="-126" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1600716314872" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1600802892612" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.23.1280.777/-1920.-103.1920.1002@-1920.-103.1920.1002" timestamp="1600802778704" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1600802892612">
+      <screen x="-1920" y="-126" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1600802892612" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.23.1280.777/-1920.-103.1920.1002@-1920.-103.1920.1002" timestamp="1600802778704" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1600802892613">
+      <screen x="-1920" y="-126" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-126.1920.1080@-1920.-126.1920.1080" timestamp="1600802892613" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1280.777/-1920.-103.1920.1002@-1920.-103.1920.1002" timestamp="1600802778705" />
   </component>
 </project>
